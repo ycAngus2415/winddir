@@ -1,0 +1,67 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import pickle
+import os
+from scipy import signal
+
+def get_data(n):
+    files = os.listdir('../data/dataset_ascending/')
+    if n > len(files):
+        n = len(files)
+    os.chdir('../data/dataset_ascending/')
+    vv = []
+    vh = []
+    incidence = []
+    direction = []
+    speed = []
+    height = []
+    for file in files[:n]:
+        with open(file, 'rb') as f:
+            data = pickle.load(f)
+            sigma_vv = data['Sigma0_VV_db:float']
+            vv.append(np.resize(sigma_vv, (1, 160000)).reshape(400, 400))
+            sigma_vh = data['Sigma0_VH_db:float']
+            vh.append(np.resize(sigma_vh, (1, 160000)).reshape(400,400))
+            speed.append(data['wspd'])
+            height.append(data['height'])
+            direction.append(data['wdir'])
+            incidence.append(data['incident_angle:float'])
+    ten_wind = [float(x)*pow(10/float(y), 0.11) for x, y in zip(speed, height)]
+    return vv, vh, ten_wind, direction, incidence
+
+def sobel(img):
+    r = np.array([[3,0,-3],[10,0,-10],[3,0,-3]])/32
+    d = r+r.T*1j
+    sob1 = signal.convolve2d(img, r)
+    sob2 = signal.convolve2d(img, r.T)
+    return sob1, sob2
+
+
+if __name__ == '__main__':
+    sigma_vv, sigma_vh, w_speed, w_direction, incidence = get_data(3)
+#    plt.imshow(sigma_vv[0])
+#    print(w_speed[0])
+#    print(w_direction[0])
+#    plt.show()
+    #img = plt.imread('./sierra.jpg')
+
+    plt.subplot(2, 2, 1)
+    plt.imshow(sigma_vv[1], 'Greys')
+    plt.subplot(2, 2, 2)
+    sob1, sob2 = sobel(sigma_vv[1])
+    norm = np.sqrt(sob1**2+sob2**2)
+    sob1 = sob1/norm
+    sob2 = sob2/norm
+    theta = np.arctan(sob2/sob1)%np.pi
+
+    np.histogram
+    plt.imshow(sob1[2:-2,2:-2], 'Greys')
+    plt.subplot(2, 2, 3)
+    plt.imshow(sob2[2:-2, 2:-2], 'Greys')
+    plt.subplot(2, 2, 4)
+    length = len(theta[2:-2,2:-2])
+    plt.hist(theta[2:-2, 2:-2].reshape(1,length), bin=5, range(0,np.pi))
+    plt.plot(sob1[2:-2,2:-2], sob2[2:-2],'o')
+    plt.show()
+
+
