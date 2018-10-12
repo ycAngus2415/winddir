@@ -1,0 +1,94 @@
+PWD /Users/yangchao/GitHub/winddir/paper
+INPUT /usr/local/texlive/2016/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-var/web2c/xetex/xelatex.fmt
+INPUT the analysis of low and middle wind speed retrieval based on sentenel-1 dual sar data .tex
+OUTPUT the analysis of low and middle wind speed retrieval based on sentenel-1 dual sar data .log
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+INPUT spconf.sty
+INPUT spconf.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2016/texmf-dist/tex/xelatex/xetex-def/xetex.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/xelatex/xetex-def/xetex.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT the analysis of low and middle wind speed retrieval based on sentenel-1 dual sar data .aux
+INPUT the analysis of low and middle wind speed retrieval based on sentenel-1 dual sar data .aux
+OUTPUT the analysis of low and middle wind speed retrieval based on sentenel-1 dual sar data .aux
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT 1.png
+INPUT 1_wind_5.png
+INPUT 1_wind_m_5.png
+INPUT 2.png
+INPUT 2_wind_a_4.png
+INPUT 2_wind_a_3.png
+INPUT 2_wind_a_1_3.png
+INPUT the analysis of low and middle wind speed retrieval based on sentenel-1 dual sar data .bbl
+INPUT the analysis of low and middle wind speed retrieval based on sentenel-1 dual sar data .bbl
+INPUT the analysis of low and middle wind speed retrieval based on sentenel-1 dual sar data .aux

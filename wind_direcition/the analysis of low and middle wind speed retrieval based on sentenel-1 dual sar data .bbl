@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+
+\bibitem{Gerling:1986ee}
+T~W Gerling,
+\newblock ``{Structure of the surface wind field from the Seasat SAR},''
+\newblock {\em Journal of Geophysical Research: Oceans}, vol. 91, no. C2, pp.
+  2308, 1986.
+
+\bibitem{Alpers:1994hy}
+W~Alpers and B~Br{\"u}mmer,
+\newblock ``{Atmospheric boundary layer rolls observed by the synthetic
+  aperture radar aboard the ERS-1 satellite},''
+\newblock {\em Journal of Geophysical Research: Oceans}, vol. 99, no. C6, pp.
+  12613--12621, 1994.
+
+\bibitem{Vachon:1996uj}
+P~W Vachon and F~W Dobson,
+\newblock ``{Validation of wind vector retrieval from ERS-1 SAR images over the
+  ocean},''
+\newblock {\em The Global Atmosphere and Ocean System}, vol. 5, no. 2, pp.
+  177--187, 1996.
+
+\bibitem{Du:2003ga}
+Yong Du and Paris~W Vachon,
+\newblock ``{Characterization of hurricane eyes in RADARSAT-1 images with
+  wavelet analysis},''
+\newblock {\em Canadian Journal of Remote Sensing}, vol. 29, no. 4, pp.
+  491--498, 2003.
+
+\bibitem{Zhou:2017ec}
+Lizhang Zhou, Gang Zheng, Xiaofeng Li, Jingsong Yang, Lin Ren, Peng Chen,
+  Huaguo Zhang, and Xiulin Lou,
+\newblock ``{An Improved Local Gradient Method for Sea Surface Wind Direction
+  Retrieval from SAR Imagery},''
+\newblock {\em Remote Sensing}, vol. 9, no. 7, July 2017.
+
+\bibitem{Horstmann:2003eg}
+J~Horstmann and W~Koch,
+\newblock ``{Ocean wind field retrieval using ENVISAT ASAR data},''
+\newblock in {\em In Proceedings of the Geoscience and Remote Sensing
+  Symposium(IGARSS)}, 2003, pp. 3102--3104.
+
+\bibitem{Zhang:2014cr}
+Biao Zhang, William Perrie, Jun~A Zhang, Eric~W Uhlhorn, and Yijun He,
+\newblock ``{High-Resolution Hurricane Vector Winds from C-Band
+  Dual-Polarization SAR Observations},''
+\newblock {\em Journal of Atmospheric and Oceanic Technology}, vol. 31, no. 2,
+  pp. 272--286, Feb. 2014.
+
+\bibitem{Shaffer:1991ei}
+S~J Shaffer, R~S Dunbar, and S~V Hsiao,
+\newblock ``{A median-filter-based ambiguity removal algorithm for NSCAT},''
+\newblock {\em IEEE Transactions on Geoscience and Rmeote Sensing}, vol. 29,
+  pp. 167--174, 1991.
+
+\bibitem{Stiles:2002cq}
+B~W Stiles, B~D Pollard, and R~S Dunbar,
+\newblock ``{Direction interval retrieval with thresholded nudging: a method
+  for improving the accuracy of QuikSCAT winds},''
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing}, vol. 40,
+  no. 1, pp. 79--89, 2002.
+
+\bibitem{James:2017kn}
+S~F James,
+\newblock ``{Using Sentinel-1 SAR satellites to map wind speed variation across
+  offshore wind farm clusters},''
+\newblock {\em Journal of Physics: Conference Series}, vol. 926, pp. 012004,
+  Nov. 2017.
+
+\bibitem{Koch:2004fq}
+W~Koch,
+\newblock ``{Directional analysis of SAR images aiming at wind direction},''
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing}, vol. 42,
+  no. 4, pp. 702--710, Apr. 2004.
+
+\end{thebibliography}
