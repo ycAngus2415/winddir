@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[2]:
-
+#the esperiments for wind direction
 
 import snappy
 from snappy import ProductIO
@@ -49,7 +49,7 @@ fig = plt.figure()
 ax = fig.add_subplot(1,1,1)
 map_ = Basemap(projection='stere',lat_0=90,lon_0=-105,            llcrnrlat=35.8095 ,urcrnrlat=37.712,            llcrnrlon=-124.916,urcrnrlon=-121.767, resolution='f', ax=ax)
 map_.drawmapboundary(fill_color='white')   # 绘制边界
-map_.drawcoastlines() 
+map_.drawcoastlines()
 map_.imshow(im, origin='upper', cmap='gray')
 plt.show()
 
@@ -198,7 +198,7 @@ plt.imshow(out)
 # In[12]:
 
 
-10.9 
+10.9
 
 
 # In[4]:
