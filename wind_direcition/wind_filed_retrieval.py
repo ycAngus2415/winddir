@@ -1,6 +1,6 @@
 
 # coding: utf-8
-
+#wind filed retrieval use wind direction retireval method
 # In[1]:
 
 
@@ -289,7 +289,7 @@ print(x)
 
 
 # 第二幅图
-# 
+#
 
 # In[28]:
 
